@@ -1,0 +1,87 @@
+[INFO ] 2024-02-28 15:11:33.818 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:11:33.830 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:11:41.316 [main] EcommerceDDTAutomation - User Email and Password entered.
+[INFO ] 2024-02-28 15:11:46.325 [main] EcommerceDDTAutomation - Sign In link clicked
+[INFO ] 2024-02-28 15:13:14.310 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:13:14.326 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:14:35.322 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:14:35.351 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:15:54.071 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:15:54.087 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:15:55.979 [main] EcommerceDDTAutomation - User Email and Password entered.
+[INFO ] 2024-02-28 15:15:59.426 [main] EcommerceDDTAutomation - Sign In link clicked
+[INFO ] 2024-02-28 15:18:55.107 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:18:55.125 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:18:58.345 [main] EcommerceDDTAutomation - User Email and Password entered.
+[INFO ] 2024-02-28 15:19:00.251 [main] EcommerceDDTAutomation - Sign In link clicked
+[INFO ] 2024-02-28 15:19:03.083 [main] EcommerceDDTAutomation - Search Product testcase - Passed
+[INFO ] 2024-02-28 15:19:05.544 [main] EcommerceDDTAutomation - ***************TestCase Search Product ends*****************
+[INFO ] 2024-02-28 15:20:05.978 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:20:05.990 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:20:09.871 [main] EcommerceDDTAutomation - User Email and Password entered.
+[INFO ] 2024-02-28 15:20:12.272 [main] EcommerceDDTAutomation - Sign In link clicked
+[INFO ] 2024-02-28 15:22:42.716 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-02-28 15:22:42.744 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-02-28 15:22:45.135 [main] EcommerceDDTAutomation - User Email and Password entered.
+[INFO ] 2024-02-28 15:22:46.512 [main] EcommerceDDTAutomation - Sign In link clicked
+[INFO ] 2024-02-28 15:22:48.631 [main] EcommerceDDTAutomation - Search Product testcase - Passed
+[INFO ] 2024-02-28 15:22:49.600 [main] EcommerceDDTAutomation - ***************TestCase Search Product ends*****************
+[INFO ] 2024-03-19 15:59:53.386 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-03-19 15:59:53.487 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-03-19 16:01:24.601 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-03-19 16:01:24.673 [main] EcommerceDDTAutomation - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-03-19 16:01:26.017 [main] EcommerceDDTAutomation - User Email and Password entered.
+[INFO ] 2024-03-19 16:01:27.367 [main] EcommerceDDTAutomation - Sign In link clicked
+[INFO ] 2024-03-19 16:01:29.142 [main] EcommerceDDTAutomation - Search Product testcase - Passed
+[INFO ] 2024-03-19 16:01:30.520 [main] EcommerceDDTAutomation - ***************TestCase Search Product ends*****************
+[INFO ] 2024-03-19 16:18:30.284 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-03-19 16:18:32.522 [main] EcommerceDDTAutomation - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-03-19 16:18:34.049 [main] EcommerceDDTAutomation - Clicked on sign in link
+[INFO ] 2024-03-19 16:18:34.179 [main] EcommerceDDTAutomation - Entered email address
+[INFO ] 2024-03-19 16:18:34.259 [main] EcommerceDDTAutomation - Entered password
+[INFO ] 2024-03-19 16:18:36.086 [main] EcommerceDDTAutomation - Clicked on sign in link..
+[INFO ] 2024-03-19 16:18:36.195 [main] EcommerceDDTAutomation - VerifyLogin - Passed
+[INFO ] 2024-03-19 16:18:37.668 [main] EcommerceDDTAutomation - ***************TestCase Verify login ends*****************
+[INFO ] 2024-03-19 16:18:37.673 [main] EcommerceDDTAutomation - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-03-19 16:18:39.184 [main] EcommerceDDTAutomation - Clicked on sign in link
+[INFO ] 2024-03-19 16:18:39.309 [main] EcommerceDDTAutomation - Entered email address
+[INFO ] 2024-03-19 16:18:39.411 [main] EcommerceDDTAutomation - Entered password
+[INFO ] 2024-03-19 16:18:41.450 [main] EcommerceDDTAutomation - Clicked on sign in link..
+[INFO ] 2024-03-19 16:18:41.490 [main] EcommerceDDTAutomation - VerifyLogin - Failed
+[INFO ] 2024-03-19 16:20:52.291 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-03-19 16:20:54.196 [main] EcommerceDDTAutomation - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-03-19 16:20:55.594 [main] EcommerceDDTAutomation - Clicked on sign in link
+[INFO ] 2024-03-19 16:20:55.706 [main] EcommerceDDTAutomation - Entered email address
+[INFO ] 2024-03-19 16:20:55.818 [main] EcommerceDDTAutomation - Entered password
+[INFO ] 2024-03-19 16:20:57.024 [main] EcommerceDDTAutomation - Clicked on sign in link..
+[INFO ] 2024-03-19 16:20:57.089 [main] EcommerceDDTAutomation - VerifyLogin - Passed
+[INFO ] 2024-03-19 16:20:58.370 [main] EcommerceDDTAutomation - ***************TestCase Verify login ends*****************
+[INFO ] 2024-03-19 16:20:58.433 [main] EcommerceDDTAutomation - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-03-19 16:20:59.376 [main] EcommerceDDTAutomation - Clicked on sign in link
+[INFO ] 2024-03-19 16:20:59.586 [main] EcommerceDDTAutomation - Entered email address
+[INFO ] 2024-03-19 16:20:59.735 [main] EcommerceDDTAutomation - Entered password
+[INFO ] 2024-03-19 16:21:01.074 [main] EcommerceDDTAutomation - Clicked on sign in link..
+[INFO ] 2024-03-19 16:21:01.168 [main] EcommerceDDTAutomation - VerifyLogin - Failed
+[INFO ] 2024-03-21 15:59:35.930 [main] EcommerceDDTAutomation - url opened
+[INFO ] 2024-03-21 15:59:38.325 [main] EcommerceDDTAutomation - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-03-21 15:59:40.103 [main] EcommerceDDTAutomation - Clicked on sign in link
+[INFO ] 2024-03-21 15:59:40.354 [main] EcommerceDDTAutomation - Entered email address
+[INFO ] 2024-03-21 15:59:40.548 [main] EcommerceDDTAutomation - Entered password
+[INFO ] 2024-03-21 15:59:42.039 [main] EcommerceDDTAutomation - Clicked on sign in link..
+[INFO ] 2024-03-21 15:59:42.136 [main] EcommerceDDTAutomation - VerifyLogin - Passed
+[INFO ] 2024-03-21 15:59:43.349 [main] EcommerceDDTAutomation - ***************TestCase Verify login ends*****************
+[INFO ] 2024-03-21 15:59:43.410 [main] EcommerceDDTAutomation - ***************TestCase VerifyLogin starts*****************
+[INFO ] 2024-03-21 15:59:44.294 [main] EcommerceDDTAutomation - Clicked on sign in link
+[INFO ] 2024-03-21 15:59:44.433 [main] EcommerceDDTAutomation - Entered email address
+[INFO ] 2024-03-21 15:59:44.542 [main] EcommerceDDTAutomation - Entered password
+[INFO ] 2024-03-21 15:59:45.515 [main] EcommerceDDTAutomation - Clicked on sign in link..
+[INFO ] 2024-03-21 15:59:45.583 [main] EcommerceDDTAutomation - VerifyLogin - Failed
